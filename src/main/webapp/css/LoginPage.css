@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+html, body {
+	height: 100%;
+}
+
+#form {
+	background-color: #d9d9d9;
+	margin-left: 590px;
+	margin-top: 200px;
+	width: 20%;
+	padding: 20px;
+	border: none;
+	border-radius: 10px;
+}
+
+button[type=submit] {
+	color: white;
+	padding: 8px 10px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 17px;
+}
+
+button[type=reset] {
+	color: white;
+	padding: 8px 10px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 17px;
+	float: right;
+}
+
+#websiteName {
+	font-family: Calibri;
+	padding: 30px;
+	font-size: 50px;
+	margin: 18px;
+}
+
+label {
+	font-family: Calibri;
+	font-size: 20px;
+}

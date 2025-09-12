@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+header {
+	background-color: orange;
+}
+
+.websiteNameOnHeader {
+	font-family: Calibri;
+	padding: 10px 10px 3px 10px;
+	font-size: 50px;
+	margin: 0px 0px;
+}
+
+.welcomeUserMessage {
+	text-decoration: underline;
+	margin: 0px 0px;
+	padding: 10px;
+	font-family: calibri;
+}
